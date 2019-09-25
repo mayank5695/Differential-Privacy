@@ -9,3 +9,6 @@ Differential privacy can be attained by using deep learning models, by clipping 
 ## Purpose
 The purpose is to use a deep learning model to attain differential privacy, thereby encrypting the personal data from reaching out to the hands of unauthorised companies and organisations.
 
+## Repo to check
+https://github.com/google/differential-privacy/
+https://github.com/Google/private-join-and-compute

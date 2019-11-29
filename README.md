@@ -14,4 +14,4 @@ https://github.com/google/differential-privacy/
 
 https://github.com/Google/private-join-and-compute
 
-Code base forked from : https://github.com/tensorflow/privacy
+Code base forked from : https://github.com/tensorflow/privacy using `mnist_scratch`

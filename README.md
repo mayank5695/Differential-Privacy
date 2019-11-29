@@ -11,4 +11,7 @@ The purpose is to use a deep learning model to attain differential privacy, ther
 
 ## Repo to check
 https://github.com/google/differential-privacy/
+
 https://github.com/Google/private-join-and-compute
+
+Code base forked from : https://github.com/tensorflow/privacy
